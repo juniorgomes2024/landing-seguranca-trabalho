@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "landing-seguranca-trabalho",
+  "name": "lucas-seguranca-trabalho",
   "compatibility_date": "2026-09-29",
   "assets": {
     "directory": "."
